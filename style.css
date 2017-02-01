@@ -1,0 +1,25 @@
+.schedule-container {
+      min-width: 800px;
+ }
+ 
+ .input-container {
+      min-width: 800px;
+ }
+ 
+  body {
+         -webkit-background-size: cover;
+         -moz-background-size: cover;
+         -o-background-size: cover;
+         background-color: #F5F5DC;
+    }
+ 
+  table {
+      border-collapse: separate;
+      border-spacing: 6px;
+ }
+ 
+ .jumbotron {
+      color: white;
+      background-color: #ff1a1a;
+      min-width: 800px;
+ }
