@@ -77,9 +77,9 @@
                 "</td>" 
                 "<td class='col-xs-2'>"  childSnapshot.val().frequency 
                 "</td>" 
-                "<td class='col-xs-2'>"  childSnapshot.val().nextTrainFormatted  // Next Arrival Formula ()
+                "<td class='col-xs-2'>"  childSnapshot.val().nextTrainFormatted  
                 "</td>" 
-                "<td class='col-xs-2'>"  childSnapshot.val().minutesTillTrain  // Minutes Away Formula
+                "<td class='col-xs-2'>"  childSnapshot.val().minutesTillTrain  
                 "</td>" 
                 "<td class='col-xs-1'>"  "<input type='submit' value='remove train' class='remove-train btn btn-primary btn-sm'>"  "</td>" 
            "</tr>");
